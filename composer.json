@@ -1,0 +1,10 @@
+{
+    "name": "schedule-site",
+    "description": "Система умного расписания",
+    "require": {
+        "php": "8.2.*",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*",
+        "ext-json": "*"
+    }
+}
