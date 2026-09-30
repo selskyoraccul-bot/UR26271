@@ -1,5 +1,5 @@
 {
-    "name": "schedule/site",
+    "name": "UR26271",
     "description": "Система умного расписания",
     "require": {
         "php": "8.2.*",
